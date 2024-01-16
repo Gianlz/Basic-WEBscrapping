@@ -1,6 +1,6 @@
 # Basic-WEBscrapping
 
-Just a basic web Scapping to get the upcoming animes from my anime List.
+Just a basic web Scrapping to get the upcoming animes from my anime List.
 
 1. Do the python magic
 2. Save in array
